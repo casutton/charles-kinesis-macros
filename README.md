@@ -1,5 +1,3 @@
-# charles-kinesis-macros
-
 Kinesis Advantage 2 macros that Charles uses.
 ==========
 
