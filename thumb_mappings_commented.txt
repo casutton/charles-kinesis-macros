@@ -1,0 +1,16 @@
+# Moves the escape key into the main keyboard, and = down to caps lock.
+[=]>[escape]
+[caps]>[=]
+# Moves hyphen onto a large thumb key.
+[delete]>[hyphen]
+# Put () under my left thumb (these I don't use as much)
+{home}>{-lshift}{9}{+lshift}
+{end}>{-lshift}{0}{+lshift}
+# Put {} under my right thumb
+{pup}>{-rshift}{obrack}{+rshift}
+{pdown}>{-lshift}{cbrack}{+lshift}
+# Put [] under my right thumb with either shift key
+{lshift}{pup}>{obrack}
+{lshift}{pdown}>{cbrack}
+{rshift}{pup}>{obrack}
+{rshift}{pdown}>{cbrack}
